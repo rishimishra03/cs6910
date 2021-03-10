@@ -1,0 +1,24 @@
+{
+    "os": "Linux-5.4.0-66-generic-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.6.9",
+    "heartbeatAt": "2021-03-10T10:04:52.207342",
+    "startedAt": "2021-03-10T10:04:48.523345",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/rishi/.local/share/jupyter/runtime/kernel-83dd0922-13f9-4b9d-9416-7ba852210643.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/rishimishra03/cs6910.git",
+        "commit": "015e39769d458984c9e619775b9b52b2c9ea315c"
+    },
+    "email": "rishimishra03@gmail.com",
+    "root": "/home/rishi/Desktop/PHD/CS6910/Assignments/Assignment",
+    "host": "rishi-Vostro-3583",
+    "username": "rishi",
+    "executable": "/usr/bin/python3"
+}
